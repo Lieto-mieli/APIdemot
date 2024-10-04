@@ -1,0 +1,34 @@
+﻿@tehtävä2_HostAddress = https://localhost:7098
+
+POST {{tehtävä2_HostAddress}}/todoitems/quests
+
+###
+
+POST {{tehtävä2_HostAddress}}/todoitems/quests
+Content-Type: application/json
+
+{
+    “name”:“Tuhoa rotat”,
+    “description”:”Tapa 3 rottaa ja tuo nahat minulle.”,
+    “reward”:50
+}
+###
+
+POST {{tehtävä2_HostAddress}}/quest/quests
+Content-Type: application/json
+
+{
+    
+    "name":"Tuhoa rotat",
+    "description":"Tapa 3 rottaa ja tuo nahat minulle.",
+    "reward":50
+}
+###
+
+GET {{tehtävä2_HostAddress}}/quest/quests
+
+###
+
+GET {{tehtävä2_HostAddress}}/quest/quests1
+
+###
