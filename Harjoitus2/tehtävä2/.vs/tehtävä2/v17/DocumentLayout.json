@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{A7420F7D-A7BB-47ED-83F3-AC8FBC134EA0}|teht\u00E4v\u00E42.csproj|solutionrelative:teht\u00E4v\u00E42.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7420F7D-A7BB-47ED-83F3-AC8FBC134EA0}|teht\u00E4v\u00E42.csproj|c:\\users\\s2200847\\onedrive - business college helsinki\\syksy 2024\\apidemotkansio\\apidemot\\harjoitus2\\teht\u00E4v\u00E42\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A7420F7D-A7BB-47ED-83F3-AC8FBC134EA0}|teht\u00E4v\u00E42.csproj|solutionrelative:todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7420F7D-A7BB-47ED-83F3-AC8FBC134EA0}|teht\u00E4v\u00E42.csproj|c:\\users\\s2200847\\onedrive - business college helsinki\\syksy 2024\\apidemotkansio\\apidemot\\harjoitus2\\teht\u00E4v\u00E42\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7420F7D-A7BB-47ED-83F3-AC8FBC134EA0}|teht\u00E4v\u00E42.csproj|solutionrelative:todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -52,32 +48,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TodoApi.http",
-              "DocumentMoniker": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\Syksy 2024\\APIdemotkansio\\APIdemot\\Harjoitus2\\teht\u00E4v\u00E42\\TodoApi.http",
-              "RelativeDocumentMoniker": "TodoApi.http",
-              "ToolTip": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\Syksy 2024\\APIdemotkansio\\APIdemot\\Harjoitus2\\teht\u00E4v\u00E42\\TodoApi.http",
-              "RelativeToolTip": "TodoApi.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-04T07:47:12.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "TodoItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\Syksy 2024\\APIdemotkansio\\APIdemot\\Harjoitus2\\teht\u00E4v\u00E42\\TodoItemDTO.cs",
               "RelativeDocumentMoniker": "TodoItemDTO.cs",
               "ToolTip": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\Syksy 2024\\APIdemotkansio\\APIdemot\\Harjoitus2\\teht\u00E4v\u00E42\\TodoItemDTO.cs",
               "RelativeToolTip": "TodoItemDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T07:47:10.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "TodoDB.cs",
               "DocumentMoniker": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\Syksy 2024\\APIdemotkansio\\APIdemot\\Harjoitus2\\teht\u00E4v\u00E42\\TodoDB.cs",
               "RelativeDocumentMoniker": "TodoDB.cs",
@@ -85,12 +68,11 @@
               "RelativeToolTip": "TodoDB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:47:09.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:47:09.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\Syksy 2024\\APIdemotkansio\\APIdemot\\Harjoitus2\\teht\u00E4v\u00E42\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -98,12 +80,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:47:01.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:47:01.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Quest.cs",
               "DocumentMoniker": "C:\\Users\\s2200847\\OneDrive - Business College Helsinki\\Syksy 2024\\APIdemotkansio\\APIdemot\\Harjoitus2\\teht\u00E4v\u00E42\\Quest.cs",
               "RelativeDocumentMoniker": "Quest.cs",
@@ -111,8 +92,7 @@
               "RelativeToolTip": "Quest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T07:47:02.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T07:47:02.809Z"
             }
           ]
         }

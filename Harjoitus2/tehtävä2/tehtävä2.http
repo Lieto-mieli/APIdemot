@@ -32,3 +32,7 @@ GET {{tehtävä2_HostAddress}}/quest/quests
 GET {{tehtävä2_HostAddress}}/quest/quests1
 
 ###
+
+POST {{tehtävä2_HostAddress}}/quest/quests
+
+###
